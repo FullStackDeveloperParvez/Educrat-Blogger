@@ -1,0 +1,78 @@
+@font-face {
+    font-family: 'Turbo Type Five';
+    src: url('TurboTypeFive.eot');
+    src: local('Turbo Type Five'), local('TurboTypeFive'),
+        url('TurboTypeFive.eot?#iefix') format('embedded-opentype'),
+        url('TurboTypeFive.woff2') format('woff2'),
+        url('TurboTypeFive.woff') format('woff'),
+        url('TurboTypeFive.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Turbo Type One';
+    src: url('TurboTypeOne.eot');
+    src: local('Turbo Type One'), local('TurboTypeOne'),
+        url('TurboTypeOne.eot?#iefix') format('embedded-opentype'),
+        url('TurboTypeOne.woff2') format('woff2'),
+        url('TurboTypeOne.woff') format('woff'),
+        url('TurboTypeOne.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Turbo Type Four';
+    src: url('TurboTypeFour.eot');
+    src: local('Turbo Type Four'), local('TurboTypeFour'),
+        url('TurboTypeFour.eot?#iefix') format('embedded-opentype'),
+        url('TurboTypeFour.woff2') format('woff2'),
+        url('TurboTypeFour.woff') format('woff'),
+        url('TurboTypeFour.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Turbo Type Two';
+    src: url('TurboTypeTwo.eot');
+    src: local('Turbo Type Two'), local('TurboTypeTwo'),
+        url('TurboTypeTwo.eot?#iefix') format('embedded-opentype'),
+        url('TurboTypeTwo.woff2') format('woff2'),
+        url('TurboTypeTwo.woff') format('woff'),
+        url('TurboTypeTwo.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Turbo Type Three';
+    src: url('TurboTypeThree.eot');
+    src: local('Turbo Type Three'), local('TurboTypeThree'),
+        url('TurboTypeThree.eot?#iefix') format('embedded-opentype'),
+        url('TurboTypeThree.woff2') format('woff2'),
+        url('TurboTypeThree.woff') format('woff'),
+        url('TurboTypeThree.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Turbo Type';
+    src: url('TurboTypeRegular.eot');
+    src: local('Turbo Type'), local('TurboTypeRegular'),
+        url('TurboTypeRegular.eot?#iefix') format('embedded-opentype'),
+        url('TurboTypeRegular.woff2') format('woff2'),
+        url('TurboTypeRegular.woff') format('woff'),
+        url('TurboTypeRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
