@@ -1,0 +1,78 @@
+@font-face {
+    font-family: 'Canterbury Sans RR';
+    src: url('CanterburySansRR-Light.eot');
+    src: local('Canterbury Sans RR Light'), local('CanterburySansRR-Light'),
+        url('CanterburySansRR-Light.eot?#iefix') format('embedded-opentype'),
+        url('CanterburySansRR-Light.woff2') format('woff2'),
+        url('CanterburySansRR-Light.woff') format('woff'),
+        url('CanterburySansRR-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Canterbury Sans RR';
+    src: url('CanterburySansRR-Medium.eot');
+    src: local('Canterbury Sans RR Medium'), local('CanterburySansRR-Medium'),
+        url('CanterburySansRR-Medium.eot?#iefix') format('embedded-opentype'),
+        url('CanterburySansRR-Medium.woff2') format('woff2'),
+        url('CanterburySansRR-Medium.woff') format('woff'),
+        url('CanterburySansRR-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Canterbury Sans Swash RR';
+    src: url('CanterburySansSwashRR-Medium.eot');
+    src: local('Canterbury Sans Swash RR Medium'), local('CanterburySansSwashRR-Medium'),
+        url('CanterburySansSwashRR-Medium.eot?#iefix') format('embedded-opentype'),
+        url('CanterburySansSwashRR-Medium.woff2') format('woff2'),
+        url('CanterburySansSwashRR-Medium.woff') format('woff'),
+        url('CanterburySansSwashRR-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Canterbury Sans Swash RR';
+    src: url('CanterburySansSwashRR-Bold.eot');
+    src: local('Canterbury Sans Swash RR Bold'), local('CanterburySansSwashRR-Bold'),
+        url('CanterburySansSwashRR-Bold.eot?#iefix') format('embedded-opentype'),
+        url('CanterburySansSwashRR-Bold.woff2') format('woff2'),
+        url('CanterburySansSwashRR-Bold.woff') format('woff'),
+        url('CanterburySansSwashRR-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Canterbury Sans Swash RR';
+    src: url('CanterburySansSwashRR-Light.eot');
+    src: local('Canterbury Sans Swash RR Light'), local('CanterburySansSwashRR-Light'),
+        url('CanterburySansSwashRR-Light.eot?#iefix') format('embedded-opentype'),
+        url('CanterburySansSwashRR-Light.woff2') format('woff2'),
+        url('CanterburySansSwashRR-Light.woff') format('woff'),
+        url('CanterburySansSwashRR-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Canterbury Sans RR';
+    src: url('CanterburySansRR-Bold.eot');
+    src: local('Canterbury Sans RR Bold'), local('CanterburySansRR-Bold'),
+        url('CanterburySansRR-Bold.eot?#iefix') format('embedded-opentype'),
+        url('CanterburySansRR-Bold.woff2') format('woff2'),
+        url('CanterburySansRR-Bold.woff') format('woff'),
+        url('CanterburySansRR-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+

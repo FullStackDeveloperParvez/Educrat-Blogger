@@ -44,8 +44,9 @@
     <div class="top-section" id="top-section">
       <input type="text" class="blog-heading" id="blog-heading" placeholder="Title">
       <div class="btn-section" id="btn-section">
-        <button class="save-blog" id="save-blog">Save</button>
-        <button class="publish-blog" id="publish-blog">Publish</button>
+        <button class="saved-blogs" id="saved-blogs"><span>Saved</span><i class="ri-arrow-down-s-line"></i></button>
+        <button class="save-blog" id="save-blog"><span>Save</span><i class="ri-save-line"></i></button>
+        <button class="publish-blog" id="publish-blog"><span>Publish</span><i class="ri-send-plane-line"></i></button>
       </div>
     </div>
     <div class="bottom-section" id="bottom-section">
@@ -187,5 +188,36 @@
       </div>
     </div>
   </main>
+  <div id="modal" class="modal">
+    <div class="modal-content" id="modal-content"></div>
+  </div>
+  <div class="publish-blog-modal" id="publish-blog-modal">
+    <div class="publish-blog-modal-content" id="publish-blog-modal-content">
+      <span class="close" id="close-publish-blog-modal"><i class="ri-close-line"></i></span>
+      <form class="form">
+        <div class="descr">Publish Blog</div>
+        <div class="input">
+            <input required="true" autocomplete="on" id="blog-title" type="text">
+            <label for="name">Blog Title</label>
+        </div>
+  
+        <div class="input">
+            <input required="true" autocomplete="on" id="blog-description" type="text">
+            <label for="email">Blog Description</label>
+        </div>
+  
+        <div class="input">
+            <input required="true" id="category" type="text"></input>
+            <label for="message">Category</label>
+        </div>
+
+        <div class="input">
+          <input required="true" id="keywords" type="text"></input>
+          <label for="message">Keywords</label>
+      </div>
+        <button id="publish-blog-btn"><span>Publish Blog</span><i class="ri-send-plane-line"></i></button>
+      </form>
+    </div>
+  </div>
 </body>
 </html>

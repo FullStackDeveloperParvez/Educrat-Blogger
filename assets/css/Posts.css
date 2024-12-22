@@ -1,0 +1,52 @@
+@import url('../fonts/Canterbury/stylesheet.css');
+
+.top-section {
+    height: 2.75rem;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.blog-search {
+    width: 25%;
+    font-size: 16px;
+    padding: 10px 10px 10px 5px;
+    display: block;
+    border: none;
+    border-bottom: 1px solid var(--eerie-black);
+    background: transparent;
+}
+
+.top-section button {
+    margin: 0rem 0rem 0rem 1rem;
+    padding: 0.5rem 2rem 0.5rem 2rem;
+    font-size: 16px; 
+    background-color: var(--gold-metallic);
+    color: var(--eerie-black);
+    border: none;
+    transition: all 0.2s ease;
+}
+
+.top-section button:hover {
+    transform: translateY(-2px);
+}
+
+.all-posts-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 1rem;
+    height: 90dvh;
+    overflow-y: scroll;
+}
+
+.all-posts-section #post {
+    border-bottom: 1px solid var(--eerie-black);
+}
+
+#post-heading {
+    font-family: 'Canterbury Sans RR';
+    font-size: 3rem;
+    cursor: pointer;
+}
